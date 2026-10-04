@@ -1,0 +1,15 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Local secrets and session artifacts
+.env
+user-session.json
+
+# Local tooling
+/.commandcode/
