@@ -1,0 +1,10 @@
+{
+    "validcred":{
+        "username":"bsvishnu996@gmail.com",
+        "password":"Goblet#18"
+    },
+    "invalidcred":{
+        "username":"xyz@gmail.com",
+        "password":"xyz@123"
+    }
+}

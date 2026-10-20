@@ -10,6 +10,7 @@ node_modules/
 # Local secrets and session artifacts
 .env
 user-session.json
+user-session_TTA.json
 
 # Local tooling
 /.commandcode/
